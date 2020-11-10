@@ -39,6 +39,8 @@ span{
     padding: .6rem;
     color: white;
     transition: .3s;
+    border-radius: 3px;
+    outline: none;
 }
 
 .btn:hover{
