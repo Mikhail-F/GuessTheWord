@@ -13,10 +13,10 @@ function startGame() {
 }
 startGame()
 
-let count = 5
-counter.innerHTML = count
-
 function slovo(data) {
+    
+    let count = 5
+    counter.innerHTML = count
 
     let string = data.puzzle
     let mas = [...string]
